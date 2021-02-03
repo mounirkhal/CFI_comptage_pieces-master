@@ -17,7 +17,7 @@ agent any
                     echo 'projet compilé avec succès'
                            }
                            
-                    faillure{ 
+                    failure{ 
                     echo 'Erreur de compilation'
                     }
                 }
