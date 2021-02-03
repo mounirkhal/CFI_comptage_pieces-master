@@ -9,7 +9,7 @@ agent any
               stage('build')
               {
                  steps{
-                 bat 'mvn compiler:compile'
+                 bat 'mvn compile'
                  }
                  post
                  {
