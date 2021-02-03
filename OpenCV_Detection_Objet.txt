@@ -1,0 +1,4 @@
+
+https://www.learnopencv.com/tag/object-detection/
+
+https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/
